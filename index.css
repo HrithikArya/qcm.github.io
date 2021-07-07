@@ -50,9 +50,6 @@ h1 {
     .floatParent{
         flex-direction: column;
     } 
-    .image, .sign-up {
-        flex: 100vh;
-    }  
 }
 
 img {
